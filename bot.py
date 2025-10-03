@@ -3,7 +3,7 @@ import telebot
 import re
 
 # --- Your Bot Token and NEW API URL ---
-BOT_TOKEN = '8162162104:AAHHq32R8kBeF4PS6CVb23iUZ3DlwBRekPI'
+BOT_TOKEN = '7860647847:AAFOiVOV_o1Os2fXzoS3xU_cbdW_rSgVylw'
 # IMPORTANT: Replace this with your actual Render API URL If You Do Not Have Make I will Explain In Vedeo 
 API_BASE_URL = "https://stripe-by-panda-1.onrender.com/check" 
 bot = telebot.TeleBot(BOT_TOKEN)
